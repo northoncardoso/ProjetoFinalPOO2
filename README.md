@@ -1,7 +1,8 @@
 # ProjetoFinalPOO2
 Jogo da memória, trabalho de programação orientada a objetos em java.
 
-Abre um Frame quando aberto, aonde você pode escolher um level de jogo:
+Abre um Frame quando aberto, aonde você pode escolher um level de jogo 
+(abrindo outro frame para o level selecionado):
 
 Level 1: 16 cartas, tempo de 300s, pontuação normal;
 Level 2: 16 cartas, tempo de 300s, potuação dobrada;
