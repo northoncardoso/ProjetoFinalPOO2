@@ -1,0 +1,4 @@
+Arrumar os erros de doble click to open the imageIcon (erro na lógica)
+Precisa de um codigo para nao abrir mais que duas imagens ao mesmo tempo
+Identificar duas cartas iguais 
+Adicionar pontuação para duas cartas iguais(se a variavel botaoclicado for true, pontuação começa a crescer sem parar*, talvez nao precise de Thread)
