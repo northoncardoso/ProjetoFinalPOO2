@@ -2,3 +2,5 @@ Arrumar os erros de doble click to open the imageIcon (erro na lógica)
 Precisa de um codigo para nao abrir mais que duas imagens ao mesmo tempo
 Identificar duas cartas iguais 
 Adicionar pontuação para duas cartas iguais(se a variavel botaoclicado for true, pontuação começa a crescer sem parar*, talvez nao precise de Thread)
+Java Database Connectivity com MySQL, para guardar o Score do jogador(até 2 pontos na nota, por algo não mostrado na matéria)
+Roteiro de relatorio final (para cada integrante,e com o diagrama de classes)
