@@ -3,8 +3,8 @@ Roteiro de Relatório do Trabalho Final;
 Título: Interação com o usuário por meio de entretenimento;
 Subtitulo: Jogo da Memória;
 Instituição: UFSC-Florianópolis;
-Membros da Equipe: Lucas Espindola, Monique Bertan e Northon Cardoso;
-Data:
+Membros da Equipe: Monique Bertan e Northon Cardoso;
+Data: 2018/1
 
 Uso do Programa
 
@@ -23,5 +23,7 @@ Inicialmente, o usuário escolhe um nível de jogo, cada nível com uma dificuld
 diferente do anterior, com o nível escolhido, abre-se uma nova Frame com o jogo.
 Conforme o usuário for acertando as cartas, uma pontuaço é adicionada, o jogo acaba
 com toda as cartas viradas ou com o termino do tempo de 300s, no nivel 2 a pontuação
-é dobrada e no nivel 3 a pontuação é triplicada e cada erro ao sugerir um par de cartas
+é dobrada e no nivel 3 a pontuação ainda é dobrada e cada erro ao sugerir um par de cartas
 identicas é descontado no tempo total restante.
+
+O score do jogador é salvo em um BD de MySQL.
