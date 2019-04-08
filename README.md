@@ -1,5 +1,6 @@
 # ProjetoFinalPOO2
 Jogo da memória, trabalho de programação orientada a objetos em java.
+O score do jogador será guardado em um banco de dados MySQL.
 
 Abre um Frame Menu que quando aberto, dará ao jogador a possibilidade de escolher um level de jogo, 
 abrindo outro frame para o level selecionado:
